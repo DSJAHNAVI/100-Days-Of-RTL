@@ -7,7 +7,7 @@ Day-2: Half Adder and Full Adder
 
 Day-3: Half Subtractor and Full Subtractor
 
-
+Day-4: Full Adder using Half Adder & Full subractor using Half subractor
 
 
 
