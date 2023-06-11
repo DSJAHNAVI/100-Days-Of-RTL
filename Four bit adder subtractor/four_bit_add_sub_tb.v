@@ -17,8 +17,3 @@ four_bit_add_sub dut(a,b,C,z,cout);
     #10;
   end
 endmodule
-
-/*Ante first a=10, b=5, C=0 ante z = a+b, cout=0
-2nd: a=10, b=5, C=1 ante z = a-b, cout=0
-3rd: a=11, b=7, C=0 ante z = a+b, cout=1
-4th  a=11, b=7, C=1 ante z = a-b, cout=0*/
