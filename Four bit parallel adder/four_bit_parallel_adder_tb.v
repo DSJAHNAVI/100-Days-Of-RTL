@@ -15,18 +15,3 @@ four_bit_parallel_adder dut(a,b,cin,sum,cout);
       end
   end
 endmodule
-
-
-
-
-
-
-
-/*initial
-begin
-$monitor("   ",in1,"  ",in2,"  ",out,"  ",oc[3]);
-in1=4'b1010;
-in2=4'b1001;
-ic=0;
-end
-endmodule*/
