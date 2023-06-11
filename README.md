@@ -13,6 +13,8 @@ Day-5: HA,FA,HS,FS using nand gate
 
 Day-6: 4 bit parallel adder
 
+Day-7: 4 bit adder and subtractor
+
 
 
 
