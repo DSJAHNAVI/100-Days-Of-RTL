@@ -9,6 +9,11 @@ Day-3: Half Subtractor and Full Subtractor
 
 Day-4: Full Adder using Half Adder & Full subractor using Half subractor
 
+Day-5: HA,FA,HS,FS using nand gate
+
+Day-6: 4 bit parallel adder
+
+
 
 
 
