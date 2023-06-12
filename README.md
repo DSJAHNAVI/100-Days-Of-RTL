@@ -15,6 +15,8 @@ Day-6: 4 bit parallel adder
 
 Day-7: 4 bit adder and subtractor
 
+Day-8: Carry LookAhead Adder
+
 
 
 
