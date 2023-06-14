@@ -19,6 +19,8 @@ Day-8: Carry LookAhead Adder
 
 Day-9: Carry Select Adder
 
+Day-10: Multiplier 4x4
+
 
 
 
