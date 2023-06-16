@@ -21,6 +21,9 @@ Day-9: Carry Select Adder
 
 Day-10: Multiplier 4x4
 
+Day-11: Carry Skip adder
+
+Day-12: 4 bit divider
 
 
 
