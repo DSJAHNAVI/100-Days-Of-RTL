@@ -29,7 +29,9 @@ Day-13: Comparator
 
 Day-14: 2x1 MUX & 4X1 MUX
 
-Dy-15: 8x1 MUX using 2x1 MUX
+Day-15: 8x1 MUX using 2x1 MUX
+
+Day-16: 1x2 demux and 1x4 demux
 
 
 
