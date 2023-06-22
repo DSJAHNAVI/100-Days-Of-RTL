@@ -35,6 +35,7 @@ Day-16: 1x2 demux and 1x4 demux
 
 Day-17: Logic Gates using MUX 2x1
 
+Day-18: Encoders
 
 
 
