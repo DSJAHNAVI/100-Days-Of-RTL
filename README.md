@@ -37,6 +37,8 @@ Day-17: Logic Gates using MUX 2x1
 
 Day-18: Encoders
 
+Day-19: Priority Encoders
+
 
 
 
