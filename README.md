@@ -49,7 +49,7 @@ Day-23: BCD to Excess-3, Excess-3 to BCD Converter
 
 Day-24: BCD to 7-Segment Decoder
 
-
+Day-25: 4 bit Booths Multiplier Algorithm
 
 
 
