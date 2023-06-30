@@ -51,7 +51,7 @@ Day-24: BCD to 7-Segment Decoder
 
 Day-25: 4 bit Booths Multiplier Algorithm
 
-
+Day-26: 4 bit Vedic Multiplier
 
 
 
