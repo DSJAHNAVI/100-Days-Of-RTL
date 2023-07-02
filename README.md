@@ -53,6 +53,10 @@ Day-25: 4 bit Booths Multiplier Algorithm
 
 Day-26: 4 bit Vedic Multiplier
 
+Day-27: Synchronous & Asynchronous Reset
+
+Day-28: SR - Latch
+
 
 
 
