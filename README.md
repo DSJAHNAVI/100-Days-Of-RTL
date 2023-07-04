@@ -57,6 +57,12 @@ Day-27: Synchronous & Asynchronous Reset
 
 Day-28: SR - Latch
 
+Day-29: SR - Flipflop
+
+Day-30: JK - Flipflop
+
+
+
 
 
 
