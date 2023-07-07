@@ -61,7 +61,19 @@ Day-29: SR - Flipflop
 
 Day-30: JK - Flipflop
 
+Day-31: Master_Slave JK FF
 
+Day-32: D Flipflop
+
+Day-33: T Flipflop
+
+Day-34: SR FF using JK,D,T FFs
+
+Day-35: JK FF using SR,D,T FFs
+
+Day-36: D FF using  SR,JK,T FFs
+
+Day-37: T FF using  SR,JK,D FFs
 
 
 
