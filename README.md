@@ -75,6 +75,11 @@ Day-36: D FF using  SR,JK,T FFs
 
 Day-37: T FF using  SR,JK,D FFs
 
+Day-38: Asynchronous Up Counter(3bit & 4bit)
+
+Day-39: Asynchronous Down Counter(3bit & 4bit)
+
+Day-40: Asynchronous Up-Down Counter(3bit)
 
 
 
