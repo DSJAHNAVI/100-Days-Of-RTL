@@ -81,7 +81,7 @@ Day-39: Asynchronous Down Counter(3bit & 4bit)
 
 Day-40: Asynchronous Up-Down Counter(3bit)
 
-
+Day-41: Async Decade Counter
 
 
 
