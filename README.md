@@ -87,13 +87,13 @@ Day-42: Mod counter(mod-6)
 
 Day-43: Synchronous up counter(3bit)
 
-Day-44: Synchronous up down counter(3bit)
+Day-44: Synchronous up-down counter(3bit)
 
 Day-45: Ring Counter
 
 Day-46: Johnson Counter
 
-
+Day-47: 4 Bit Serial In Serial Out Shift Register
 
 
 
