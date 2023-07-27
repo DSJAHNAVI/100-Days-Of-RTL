@@ -105,8 +105,17 @@ Day-51: Bidirectional  Shift Register
 
 Day-52: Universal Shift Register
 
+Day-53: Moore FSM
 
+Day-54: Mealy FSM
 
+Day-55: Moore FSM Sequence Dectector Non-Over Lapping
+
+Day-56: Moore FSM Sequence Dectector Over Lapping
+
+Day-57: Mealy FSM Sequence Dectector Non-Over Lapping
+
+Day-58: Mealy FSM Sequence Dectector Over Lapping
 
 
 
