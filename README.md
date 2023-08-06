@@ -109,16 +109,21 @@ Day-53: Moore FSM &  Mealy FSM
 
 Day-54: Moore FSM Sequence Dectector Non-Over Lapping
 
-Day-55: Moore FSM Sequence Dectector Over Lapping
+Day-55: Moore FSM Sequence Detector Over Lapping
 
-Day-56: Mealy FSM Sequence Dectector Non-Over Lapping
+Day-56: Mealy FSM Sequence Detector Non-Over Lapping
 
-Day-57: Mealy FSM Sequence Dectector Over Lapping
+Day-57: Mealy FSM Sequence Detector Over Lapping
 
+Day-58: FSM-Vending Machine
 
+Day-59: FSM-Traffic Light Controller
 
+Day-60: FSM-Washing Machine
 
+Day-61: FSM-Alarm Clock
 
+Day-62: FSM-Elevator Controller
 
 
 
