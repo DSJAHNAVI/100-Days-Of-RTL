@@ -125,6 +125,23 @@ Day-61: FSM-Alarm Clock
 
 Day-62: FSM-Elevator Controller
 
+Day-63: Arthimetic Logic Unit(ALU)
+
+Day-64:
+
+Day-65:
+
+Day-66:
+
+Day-67:
+
+Day-68:
+
+Day-69:
+
+Day-70:
+
+
 
 
 
