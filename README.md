@@ -129,7 +129,7 @@ Day-63: Arithmetic Logic Unit(ALU)
 
 Day-64: Single Port RAM
 
-Day-65:
+Day-65: Dual Port RAM
 
 Day-66:
 
