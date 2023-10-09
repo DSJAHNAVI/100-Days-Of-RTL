@@ -131,7 +131,7 @@ Day-64: Single Port RAM
 
 Day-65: Dual Port RAM
 
-Day-66:
+Day-66: ROM
 
 Day-67:
 
