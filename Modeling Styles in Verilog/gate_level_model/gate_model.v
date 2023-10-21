@@ -8,8 +8,7 @@ module gate_model(
     output nand_g,
     output nor_g,
     output xor_g,
-    output xnor_g
-    );
+    output xnor_g);
     
     and andgate(and_g, a, b);
     or orgate(or_g, a, b);
