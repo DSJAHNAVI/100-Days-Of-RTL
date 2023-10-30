@@ -133,7 +133,7 @@ Day-65: Dual Port RAM
 
 Day-66: ROM
 
-Day-67:
+Day-67: PWM Generator
 
 Day-68:
 
