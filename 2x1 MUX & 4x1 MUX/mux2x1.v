@@ -8,7 +8,7 @@ module mux2x1(input i0,i1,s0, output out );
 endmodule*/
 
 /*OR we can write it as
-module mux2x1(input i0,i1,s0, output out ); 
+module mux2x1(input i0,i1,s0, output reg out ); 
 	always @(*) begin
 		case(s0)
 		0 : out = i0;
@@ -17,9 +17,9 @@ module mux2x1(input i0,i1,s0, output out );
 endmodule*/
 
 /*OR we can write it as 
-module mux2x1(input i0,i1,s0, output out );
+module mux2x1(input i0,i1,s0, output reg out );
 	always @(*) begin
-	if(s0 = 1)
+	if(s0 = 0)
 		out = i0;
 	else
 		out = i1;
